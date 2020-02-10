@@ -1,1 +1,0 @@
-{"uuid":"b39deba5-5bc9-4767-ae05-aab3b66cecde","name":"socks.Api","children":["7b9999be-9700-42fb-b21f-aca8e915da55"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1581242418777,"stop":1581242419701}],"afters":[],"links":[],"start":1581242418727,"stop":1581242421785}

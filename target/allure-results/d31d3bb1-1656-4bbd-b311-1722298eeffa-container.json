@@ -1,1 +1,0 @@
-{"uuid":"d31d3bb1-1656-4bbd-b311-1722298eeffa","name":"MainPage","children":["298ec265-8e65-45f0-8b01-e206dd8ac490"],"befores":[{"name":"setUpDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1581243181783,"stop":1581243182365}],"afters":[],"links":[],"start":1581243181734,"stop":1581243190576}
